@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ATV-FINAL-PAM1</string>
+    <string name="Titulo">Mercadinho da Vovó</string>
+    <string name="label_descrição">Cadastre, Liste, Exclua e Altere Produtos</string>
+    <string name="txt_nome">Digite o Nome:</string>
+    <string name="txt_quantidade">Digite a Quantidade:</string>
+    <string name="txt_cadproduto">Cadastre seus Produtos</string>
+    <string name="txt_altereouexclua">Altere ou exclua seus Produtos</string>
+    <string name="txt_valor">Digite o Valor:</string>
+    <string name="txt_descricao">Digite a Descrição:</string>
+    <string name="btn_Cadastrar">Cadastrar</string>
+    <string name="btn_Listar">Listar</string>
+    <string name="btn_Excluir">Excluir</string>
+    <string name="btn_voltar">Voltar</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="btn_alterar">Alterar</string>
+    <string name="txt_login">Já possui uma conta?, então logue-se</string>
+    <string name="txt_login1">Já possui uma conta?</string>
+    <string name="txt_login2">Então logue-se</string>
+    <string name="txt_cadastrar">Não possui uma conta?, então cadastre-se</string>
+    <string name="txt_cadastrar1">Não possui uma conta?</string>
+    <string name="txt_cadastrar2">Então cadastre-se</string>
+    <string name="txt_Telacadastro">E Rapido é Facil</string>
+    <string name="txt_Telacadastro1">E só preencher as informaçoes</string>
+    <string name="txt_Telacadastro2">abaixo</string>
+    <string name="txt_codigo">Digite o codigo do produto desejado:</string>
+    <string name="label_bemvindo">Bem Vindoo!!!</string>
+    <string name="btn_login">Logar</string>
+    <string name="lbl_usuario">Usuario</string>
+    <string name="lbl_senha">Senha</string>
+</resources>
